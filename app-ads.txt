@@ -6,3 +6,4 @@ pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 586616193, RESELLER
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+adingo.jp, 33841, RESELLER
